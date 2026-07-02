@@ -113,16 +113,6 @@ AI-powered Driver Safety System
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthumanikandankcse&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
