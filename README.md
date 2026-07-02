@@ -22,6 +22,10 @@
 
 <p align="center">
 
+<a href="https://muthumanikandan-portfolio-jade.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/muthumanikandankcse">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
