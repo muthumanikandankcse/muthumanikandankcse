@@ -44,7 +44,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,c"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
 
 </p>
 
@@ -52,7 +52,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi"/>
 
 </p>
 
@@ -60,7 +60,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
@@ -101,15 +101,6 @@ AI-powered Driver Safety System
 
 ---
 
-## 🔐 Secure Online Transaction System
-
-- Image Processing
-- Cryptography
-- Python
-- SQL Server
-
----
-
 # 📈 GitHub Stats
 
 <p align="center">
@@ -126,17 +117,7 @@ AI-powered Driver Safety System
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthumanikandankcse&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muthumanikandankcse&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthumanikandankcse&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
