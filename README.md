@@ -44,7 +44,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,postgresql"/>
 
 </p>
 
