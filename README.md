@@ -72,7 +72,7 @@
 
 # 🚀 Featured Projects
 
-💼 Job Portal Platform
+## 💼 Job Portal Platform
 
 Full-Stack Recruitment & Hiring Portal
 
@@ -86,7 +86,7 @@ Full-Stack Recruitment & Hiring Portal
 
 ---
 
-🛒 E-Commerce Platform
+## 🛒 E-Commerce Platform
 
 Modern Full-Stack Shopping Application
 
