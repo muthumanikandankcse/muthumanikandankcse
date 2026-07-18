@@ -76,13 +76,13 @@
 
 Full-Stack Recruitment & Hiring Portal
 
-Job Posting & Search
-Resume & Job Applications
-JWT Authentication
-Recruiter Dashboard
-Role-Based Access Control
-Django REST API
-PostgreSQL
+- Job Posting & Search
+- Resume & Job Applications
+- JWT Authentication
+- Recruiter Dashboard
+- Role-Based Access Control
+- Django REST API
+- PostgreSQL
 
 ---
 
@@ -90,13 +90,13 @@ PostgreSQL
 
 Modern Full-Stack Shopping Application
 
-User Authentication
-Product Catalog
-Shopping Cart & Wishlist
-Secure Checkout
-Order Management
-Django REST API
-PostgreSQL
+- User Authentication
+- Product Catalog
+- Shopping Cart & Wishlist
+- Secure Checkout
+- Order Management
+- Django REST API
+- PostgreSQL
 
 ---
 
